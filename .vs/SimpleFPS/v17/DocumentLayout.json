@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace\\UnityProject\\SimpleFPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1292FA-06F9-0EAE-129A-D67597725F66}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\simplefps\\assets\\script\\arrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1292FA-06F9-0EAE-129A-D67597725F66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1292FA-06F9-0EAE-129A-D67597725F66}|Assembly-CSharp.csproj|D:\\WorkSpace\\UnityProject\\SimpleFPS\\assets\\script\\archercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1292FA-06F9-0EAE-129A-D67597725F66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\archercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1292FA-06F9-0EAE-129A-D67597725F66}|Assembly-CSharp.csproj|D:\\WorkSpace\\UnityProject\\SimpleFPS\\assets\\script\\usergui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1292FA-06F9-0EAE-129A-D67597725F66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\usergui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrowController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\SimpleFPS\\Assets\\Script\\ArrowController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ArrowController.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\SimpleFPS\\Assets\\Script\\ArrowController.cs",
+              "RelativeToolTip": "Assets\\Script\\ArrowController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAFAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:02:00.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserGui.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\SimpleFPS\\Assets\\Script\\UserGui.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UserGui.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\SimpleFPS\\Assets\\Script\\UserGui.cs",
+              "RelativeToolTip": "Assets\\Script\\UserGui.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:23:14.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArcherController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\SimpleFPS\\Assets\\Script\\ArcherController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ArcherController.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\SimpleFPS\\Assets\\Script\\ArcherController.cs",
+              "RelativeToolTip": "Assets\\Script\\ArcherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:17:42.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

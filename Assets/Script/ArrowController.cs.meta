@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51f8aa7d2961a53498897106ee5252b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - archerControllerScript: {instanceID: 0}
+  - hitSound: {fileID: 8300000, guid: 4cbfb7a9c6c06d74d8a6116c53a18de5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

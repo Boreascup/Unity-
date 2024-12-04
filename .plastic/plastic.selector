@@ -1,0 +1,4 @@
+repository "FPS@tj_wechat_os_qy075jbhugmwkwr4u3rugaia0@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
